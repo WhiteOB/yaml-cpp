@@ -1,3 +1,4 @@
+#pragma once
 #include "yaml-cpp/emitterstyle.h"
 #include "yaml-cpp/eventhandler.h"
 #include "yaml-cpp/mark.h"
