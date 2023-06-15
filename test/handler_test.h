@@ -1,3 +1,4 @@
+#pragma once
 #include "mock_event_handler.h"
 #include "yaml-cpp/yaml.h"  // IWYU pragma: keep
 
